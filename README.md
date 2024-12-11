@@ -47,3 +47,5 @@ Implement a prediction function to classify new images, providing the predicted 
 
 
 
+
+
